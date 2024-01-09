@@ -1,0 +1,90 @@
+{
+    "ProjectsArray": [
+        {
+            "id": 1,
+            "title": "E-commerce Site",
+            "description": "An e-commerce site is an online platform that facilitates the buying and selling of goods and services, providing users with a virtual marketplace to browse, select, and purchase products or services.",
+            "image": "https://i.postimg.cc/nztb1mMX/shank.png",
+            "Github": "https://github.com/HaanimP/SHANK-e-commerce.git",
+            "Vercel": "https://shank-e-commerce.vercel.app/"
+        },
+        {
+            "id": 2,
+            "title": "Personal Portfolio",
+            "description": "A personal portfolio website is a digital showcase that provides a comprehensive overview of an individual's skills, projects, and experiences, serving as a professional hub for self-promotion and showcasing their work to potential employers or clients.",
+            "image": "https://i.postimg.cc/D0xr0G8W/Screenshot-20231104-003105-com-huawei-himovie-overseas.jpg",
+            "Github": "https://github.com/HaanimP/eomp2.git",
+            "Vercel": "https://eomp2.vercel.app/"
+        },
+        {
+            "id": 3,
+            "title": "To do list",
+            "description": "A to-do list is a simple organizational tool that compiles tasks, activities, or goals into a systematic list format, aiding individuals in managing and prioritizing their responsibilities.",
+            "image": "https://i.postimg.cc/P5rf9qZ3/to-do-list.png",
+            "Github": "https://github.com/HaanimP/toDo.git",
+            "Vercel": "https://to-do-six-gamma.vercel.app/"
+        },
+        {
+            "id": 4,
+            "title": "Minutes to seconds",
+            "description": "A minutes-to-seconds converter is a utility that swiftly transforms time values from minutes to seconds, providing a convenient and efficient way to perform time unit conversions.",
+            "image": "https://i.postimg.cc/TYKC9VNC/minutes-to-seconds.png",
+            "Github": "https://github.com/HaanimP/minutesToSeconds.git",
+            "Vercel": "https://minutes-to-seconds-five.vercel.app/"
+        },
+        {
+            "id": 5,
+            "title": "Area of triangle",
+            "description": "An area of triangle calculator is a computational tool that enables users to quickly determine the area of a triangle by entering the required geometric measurements, streamlining the calculation process for geometric analysis.",
+            "image": "https://i.postimg.cc/8zVM6M2F/area-of-triangle.png",
+            "Github": "https://github.com/HaanimP/areaOfTriangle.git",
+            "Vercel": "https://area-of-triangle-ten.vercel.app/"
+        },
+        {
+            "id": 6,
+            "title": "Age to days",
+            "description": "An age-to-days converter is a practical tool for converting a person's age into the equivalent number of days, providing a quick and convenient way to express age in a different time unit.",
+            "image": "https://i.postimg.cc/gkrYm2Nn/age-to-days.png",
+            "Github": "https://github.com/HaanimP/ageToDays.git",
+            "Vercel": "https://age-to-days-three.vercel.app/"
+        }
+    ],
+    "TestimonialsArray": [
+        {
+            "id": 1,
+            "name": "Ammara Hoosen",
+            "testimonial": "Haanim Pietersen is not only a pleasant individual to work with, but she radiates warmth and positivity where ever she goes. She is a hard-working, dedicated and intelligent person. No matter how hectic or challenging the situation, she maintains an unwavering sense of composure and always finds a way to uplift those around her. I wholeheartedly recommend her. - Classmate",
+            "image": "https://drive.google.com/uc?id=1Vbkift_BW28jSA6TTW6_1zl_5fODR9Lq"
+        },
+        {
+            "id": 2,
+            "name": "Aneeqa Louw",
+            "testimonial": "Here's a small testimonial about my experience working with Haanim. From the moment we started I was impressed by their exceptional skills and unwavering dedication. Haanim consistently demonstrates a remarkable level of professionalism and expertise in everything she does. - Classmate",
+            "image": "https://i.postimg.cc/c4MkmmGs/IMG20230528163525.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Eighton-Lee Paulse",
+            "testimonial": "Haanim is a highly dedicated individual with an amazing work ethic, and her personality can light up a room. I would definitely recommend her. - Colleague",
+            "image": "https://i.postimg.cc/kMpsnpNY/C12-C2-Eighton-Lee-Paulse-3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Heather Mtuedwa",
+            "testimonial":"Its always a pleasure to work along side with Haanim Pietrsen. She is shy quite person but always has great positive energy, and is always willing to go the extra mile when it comes to her work. Her attention to every single detail and following what needs to be done is what makes it so great to work beside her everyday. I highly recommend Haanim Pietersen to any one that is looking for a hardworker in their team. - Classmate",
+            "image": "https://i.postimg.cc/xdbKsfNK/46715.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Matthew Dean Brown",
+            "testimonial": "Haanim is a creative individual. She shows consistency in her work ethic and ability to learn. - Lecturer",
+            "image": "https://drive.google.com/uc?id=1-6dv25yPAhMFnqZ0C2JoLYqqMJ0-AF1q"
+        },
+        {
+            "id": 6,
+            "name": "Summer De Wet",
+            "testimonial": "In the time that I have known her, Haanim has proven herself to be exceptional at whatever she sets out to do,demonstrating a strong aptitude for coding and a deep passion for technology. What makes Haanim different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication.Her attention to detail and ability to work collaboratively makes her an invaluable member of any team - Classmate",
+            "image": "https://drive.google.com/uc?id=1RNezNxU_FHv8CLblrmORSWddrXkn6xw-"
+        }
+    ]
+}
