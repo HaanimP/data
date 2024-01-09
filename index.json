@@ -1,4 +1,15 @@
 {
+    "HomeArray": [
+        {
+            "title": "Aspiring Web Developer",
+            "greeting": {
+              "text": "Hello, my name is",
+              "name": "Haanim Pietersen"
+            },
+            "contactButton": "Contact Me",
+            "imageSrc": "https://i.postimg.cc/pL8zc0vV/IMG-20231225-100757.png"
+          }
+    ],
     "ProjectsArray": [
         {
             "id": 1,
