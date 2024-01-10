@@ -69,32 +69,32 @@
         },
         {
             "id": 2,
-            "name": "Aneeqa Louw",
-            "testimonial": "Here's a small testimonial about my experience working with Haanim. From the moment we started I was impressed by their exceptional skills and unwavering dedication. Haanim consistently demonstrates a remarkable level of professionalism and expertise in everything she does. - Classmate",
+            "name": "Heather Mtuedwa",
+            "testimonial": "Its always a pleasure to work along side with Haanim Pietrsen. She is shy quite person but always has great positive energy, and is always willing to go the extra mile when it comes to her work. Her attention to every single detail and following what needs to be done is what makes it so great to work beside her everyday. I highly recommend Haanim Pietersen to any one that is looking for a hardworker in their team. - Classmate",
             "image": "https://i.postimg.cc/c4MkmmGs/IMG20230528163525.jpg"
         },
         {
             "id": 3,
-            "name": "Eighton-Lee Paulse",
-            "testimonial": "Haanim is a highly dedicated individual with an amazing work ethic, and her personality can light up a room. I would definitely recommend her. - Colleague",
-            "image": "https://i.postimg.cc/kMpsnpNY/C12-C2-Eighton-Lee-Paulse-3.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Heather Mtuedwa",
-            "testimonial":"Its always a pleasure to work along side with Haanim Pietrsen. She is shy quite person but always has great positive energy, and is always willing to go the extra mile when it comes to her work. Her attention to every single detail and following what needs to be done is what makes it so great to work beside her everyday. I highly recommend Haanim Pietersen to any one that is looking for a hardworker in their team. - Classmate",
-            "image": "https://i.postimg.cc/xdbKsfNK/46715.jpg"
-        },
-        {
-            "id": 5,
             "name": "Matthew Dean Brown",
             "testimonial": "Haanim is a creative individual. She shows consistency in her work ethic and ability to learn. - Lecturer",
             "image": "https://drive.google.com/uc?id=1-6dv25yPAhMFnqZ0C2JoLYqqMJ0-AF1q"
         },
         {
-            "id": 6,
+            "id": 4,
+            "name": "Niyaaz Daniels",
+            "testimonial":"I have had the pleasure of working closely with Haanim, and I can confidently say that she is an outstanding web developer. Her technical proficiency, attention to detail, and creative approach set her apart in the field. Haanim consistently delivers high-quality work, displaying a remarkable ability to turn complex requirements into sleek and user-friendly web applications. I highly recommend Haanim for her expertise, professionalism, and dedication to excellence in web development. - Classmate",
+            "image": "https://drive.google.com/uc?id=1bCVw-m9ESURWKJWvT7ndIyUfoqTmmmwp"
+        },
+        {
+            "id": 5,
             "name": "Summer De Wet",
             "testimonial": "In the time that I have known her, Haanim has proven herself to be exceptional at whatever she sets out to do,demonstrating a strong aptitude for coding and a deep passion for technology. What makes Haanim different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication.Her attention to detail and ability to work collaboratively makes her an invaluable member of any team - Classmate",
+            "image": "https://drive.google.com/uc?id=1RNezNxU_FHv8CLblrmORSWddrXkn6xw-"
+        },
+        {
+            "id": 6,
+            "name": "Unity Demas",
+            "testimonial": "Haanim, with her exceptional work ethic and unwavering dedication, consistently stands out as a hardworking and committed classmate who sets the bar high by tirelessly striving for academic excellence and aiming for the highest marks in every undertaking. Beyond her impressive academic pursuits, she radiates positivity with her pleasant and amiable soul, making her not only a valuable asset in the pursuit of knowledge but also a delightful presence that contributes significantly to the overall camaraderie and uplifting atmosphere within the academic community. - Classmates",
             "image": "https://drive.google.com/uc?id=1RNezNxU_FHv8CLblrmORSWddrXkn6xw-"
         }
     ]
