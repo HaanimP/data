@@ -14,7 +14,7 @@
         {
             "id": 1,
             "title": "E-commerce Site",
-            "description": "An e-commerce site is an online platform that facilitates the buying and selling of goods and services, providing users with a virtual marketplace to browse, select, and purchase products or services.",
+            "description": "An e-commerce platform is a web-based space that simplifies the exchange of goods and services, offering users a virtual marketplace to explore, choose, and acquire products or services.",
             "image": "https://i.postimg.cc/nztb1mMX/shank.png",
             "Github": "https://github.com/HaanimP/SHANK-e-commerce.git",
             "Vercel": "https://shank-e-commerce.vercel.app/"
@@ -22,7 +22,7 @@
         {
             "id": 2,
             "title": "Personal Portfolio",
-            "description": "A personal portfolio website is a digital showcase that provides a comprehensive overview of an individual's skills, projects, and experiences, serving as a professional hub for self-promotion and showcasing their work to potential employers or clients.",
+            "description": "A personal portfolio website is a digital display that offers an in-depth glimpse into an individual's capabilities, accomplishments, and journey, functioning as a central point for self-promotion and presenting their achievements to potential employers or clients.",
             "image": "https://i.postimg.cc/D0xr0G8W/Screenshot-20231104-003105-com-huawei-himovie-overseas.jpg",
             "Github": "https://github.com/HaanimP/eomp2.git",
             "Vercel": "https://eomp2.vercel.app/"
@@ -30,7 +30,7 @@
         {
             "id": 3,
             "title": "To do list",
-            "description": "A to-do list is a simple organizational tool that compiles tasks, activities, or goals into a systematic list format, aiding individuals in managing and prioritizing their responsibilities.",
+            "description": "A to-do list is a basic organizational tool that consolidates tasks, activities, or objectives into a structured list, assisting individuals in overseeing and prioritizing their obligations.",
             "image": "https://i.postimg.cc/P5rf9qZ3/to-do-list.png",
             "Github": "https://github.com/HaanimP/toDo.git",
             "Vercel": "https://to-do-six-gamma.vercel.app/"
@@ -38,7 +38,7 @@
         {
             "id": 4,
             "title": "Minutes to seconds",
-            "description": "A minutes-to-seconds converter is a utility that swiftly transforms time values from minutes to seconds, providing a convenient and efficient way to perform time unit conversions.",
+            "description": "A minutes-to-seconds converter is a handy tool that rapidly converts time values from minutes to seconds, offering a streamlined and effective method for conducting time unit conversions.",
             "image": "https://i.postimg.cc/TYKC9VNC/minutes-to-seconds.png",
             "Github": "https://github.com/HaanimP/minutesToSeconds.git",
             "Vercel": "https://minutes-to-seconds-five.vercel.app/"
@@ -46,7 +46,7 @@
         {
             "id": 5,
             "title": "Area of triangle",
-            "description": "An area of triangle calculator is a computational tool that enables users to quickly determine the area of a triangle by entering the required geometric measurements, streamlining the calculation process for geometric analysis.",
+            "description": "An area of triangle calculator is a computational aid that allows users to swiftly ascertain the area of a triangle by inputting the necessary geometric measurements, simplifying the calculation process for geometric analysis.",
             "image": "https://i.postimg.cc/8zVM6M2F/area-of-triangle.png",
             "Github": "https://github.com/HaanimP/areaOfTriangle.git",
             "Vercel": "https://area-of-triangle-ten.vercel.app/"
@@ -54,7 +54,7 @@
         {
             "id": 6,
             "title": "Age to days",
-            "description": "An age-to-days converter is a practical tool for converting a person's age into the equivalent number of days, providing a quick and convenient way to express age in a different time unit.",
+            "description": "An age-to-days converter is a useful utility for transforming an individual's age into the corresponding number of days, offering a swift and convenient method to express age in an alternative time unit.",
             "image": "https://i.postimg.cc/gkrYm2Nn/age-to-days.png",
             "Github": "https://github.com/HaanimP/ageToDays.git",
             "Vercel": "https://age-to-days-three.vercel.app/"
