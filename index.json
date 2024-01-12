@@ -46,7 +46,7 @@
         {
             "id": 5,
             "title": "Area of triangle",
-            "description": "An area of triangle calculator is a computational aid that allows users to swiftly ascertain the area of a triangle by inputting the necessary geometric measurements, simplifying the calculation process for geometric analysis.",
+            "description": "An area of triangle calculator is a computational aid that allows users to swiftly ascertain the area of a triangle by inputting the necessary geometric measurements, simplifying the calculation process for geometric analysis. Simple and beginner friendly using basic javascript.",
             "image": "https://i.postimg.cc/8zVM6M2F/area-of-triangle.png",
             "Github": "https://github.com/HaanimP/areaOfTriangle.git",
             "Vercel": "https://area-of-triangle-ten.vercel.app/"
