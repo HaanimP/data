@@ -14,7 +14,7 @@
         {
             "id": 1,
             "title": "E-commerce Site",
-            "description": "An e-commerce platform is a web-based space that simplifies the exchange of goods and services, offering users a virtual marketplace to explore, choose, and acquire products or services.",
+            "description": "An e-commerce platform is a web-based space that simplifies the exchange of goods and services, offering users a virtual marketplace to explore, choose, and acquire products or services.A beginner friendly site usinghtml, css , bootstrap and javascript.",
             "image": "https://i.postimg.cc/nztb1mMX/shank.png",
             "Github": "https://github.com/HaanimP/SHANK-e-commerce.git",
             "Vercel": "https://shank-e-commerce.vercel.app/"
@@ -54,7 +54,7 @@
         {
             "id": 6,
             "title": "Age to days",
-            "description": "An age-to-days converter is a useful utility for transforming an individual's age into the corresponding number of days, offering a swift and convenient method to express age in an alternative time unit.",
+            "description": "An age-to-days converter is a useful utility for transforming an individual's age into the corresponding number of days, offering a swift and convenient method to express age in an alternative time unit. A simple and easy age to days convertor using basic javascript.",
             "image": "https://i.postimg.cc/gkrYm2Nn/age-to-days.png",
             "Github": "https://github.com/HaanimP/ageToDays.git",
             "Vercel": "https://age-to-days-three.vercel.app/"
