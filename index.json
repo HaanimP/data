@@ -1,7 +1,7 @@
 {
     "HomeArray": [
         {
-            "title": "Aspiring Web Developer",
+            "title": "Aspiring Full Stack Web Developer",
             "greeting": {
               "text": "Hello, my name is",
               "name": "Haanim Pietersen"
@@ -13,19 +13,19 @@
     "ProjectsArray": [
         {
             "id": 1,
-            "title": "E-commerce Site",
+            "title": "Capstone Project",
+            "description": "A full-stack e-commerce website is a comprehensive online platform that facilitates buying and selling goods and services. It includes features like product browsing, secure checkout, order management, and payment processing, utilizing both front-end and back-end technologies for seamless functionality and user experience.",
+            "image": "https://i.ibb.co/64b2cHx/Screenshot-2024-03-27-094741.png",
+            "Github": "https://github.com/HaanimP/capstone_project.git",
+            "Vercel": "https://capstoneproject-68b97.web.app/"
+        },
+        {
+            "id": 2,
+            "title": "Javascript Project",
             "description": "An e-commerce platform is a web-based space that simplifies the exchange of goods and services, offering users a virtual marketplace to explore, choose, and acquire products or services.A beginner friendly site usinghtml, css , bootstrap and javascript.",
             "image": "https://i.postimg.cc/nztb1mMX/shank.png",
             "Github": "https://github.com/HaanimP/SHANK-e-commerce.git",
             "Vercel": "https://shank-e-commerce.vercel.app/"
-        },
-        {
-            "id": 2,
-            "title": "Personal Portfolio",
-            "description": "A personal portfolio website is a digital display that offers an in-depth glimpse into an individual's capabilities, accomplishments, and journey, functioning as a central point for self-promotion and presenting their achievements to potential employers or clients.",
-            "image": "https://i.postimg.cc/D0xr0G8W/Screenshot-20231104-003105-com-huawei-himovie-overseas.jpg",
-            "Github": "https://github.com/HaanimP/eomp2.git",
-            "Vercel": "https://eomp2.vercel.app/"
         },
         {
             "id": 3,
