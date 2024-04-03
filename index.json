@@ -80,37 +80,43 @@
         {
             "id": 1,
             "name": "Ammara Hoosen",
-            "testimonial": "Haanim Pietersen is not only a pleasant individual to work with, but she radiates warmth and positivity where ever she goes. She is a hard-working, dedicated and intelligent person. No matter how hectic or challenging the situation, she maintains an unwavering sense of composure and always finds a way to uplift those around her. I wholeheartedly recommend her. - Classmate",
+            "title" : "Classmate",
+            "testimonial": "Haanim Pietersen is not only a pleasant individual to work with, but she radiates warmth and positivity where ever she goes. She is a hard-working, dedicated and intelligent person. No matter how hectic or challenging the situation, she maintains an unwavering sense of composure and always finds a way to uplift those around her. I wholeheartedly recommend her.",
             "image": "https://cdn-thumbs.imagevenue.com/e0/63/51/ME17GHMO_t.png"
         },
         {
             "id": 2,
             "name": "Luqmaan Toefy",
-            "testimonial": "Haanim Pietersen is a phenomenal fullstack developer, seamlessly blending creativity and technical expertise to bring innovative solutions to life. Her keen eye for detail and commitment to quality consistently elevate our projects to new heights. Beyond her professional acumen, Haanim's warm demeanor and collaborative spirit make every workday a pleasure, turning colleagues into friends and creating a truly harmonious work environment. - Classmate",
+            "title" : "Classmate",
+            "testimonial": "Haanim Pietersen is a phenomenal fullstack developer, seamlessly blending creativity and technical expertise to bring innovative solutions to life. Her keen eye for detail and commitment to quality consistently elevate our projects to new heights. Beyond her professional acumen, Haanim's warm demeanor and collaborative spirit make every workday a pleasure, turning colleagues into friends and creating a truly harmonious work environment.",
             "image": "https://cdn-thumbs.imagevenue.com/b4/05/7e/ME17GIVQ_t.jpg"
         },
         {
             "id": 3,
             "name": "Matthew Dean Brown",
-            "testimonial": "Haanim Pietersen is an outstanding student with a remarkable aptitude for fullstack development, demonstrating a rare blend of creativity and technical prowess in her work. Her commitment to mastering the intricacies of the field is truly commendable, as is her ability to tackle complex challenges with enthusiasm and precision. As both her lecturer and friend, it's evident that Haanim's future as a highly skilled fullstack developer is exceptionally bright. - Lecturer",
+            "title" : "Lecturer",
+            "testimonial": "Haanim Pietersen is an outstanding student with a remarkable aptitude for fullstack development, demonstrating a rare blend of creativity and technical prowess in her work. Her commitment to mastering the intricacies of the field is truly commendable, as is her ability to tackle complex challenges with enthusiasm and precision. As both her lecturer and friend, it's evident that Haanim's future as a highly skilled fullstack developer is exceptionally bright.",
             "image": "https://cdn-thumbs.imagevenue.com/0b/05/c0/ME17GHM1_t.png"
         },
         {
             "id": 4,
             "name": "Niyaaz Daniels",
-            "testimonial":"I have had the pleasure of working closely with Haanim, and I can confidently say that she is an outstanding web developer. Her technical proficiency, attention to detail, and creative approach set her apart in the field. Haanim consistently delivers high-quality work, displaying a remarkable ability to turn complex requirements into sleek and user-friendly web applications. I highly recommend Haanim for her expertise, professionalism, and dedication to excellence in web development. - Classmate",
+            "title" : "Classmate",
+            "testimonial":"I have had the pleasure of working closely with Haanim, and I can confidently say that she is an outstanding web developer. Her technical proficiency, attention to detail, and creative approach set her apart in the field. Haanim consistently delivers high-quality work, displaying a remarkable ability to turn complex requirements into sleek and user-friendly web applications. I highly recommend Haanim for her expertise, professionalism, and dedication to excellence in web development.",
             "image": "https://cdn-thumbs.imagevenue.com/1d/e9/c7/ME17GHMI_t.png"
         },
         {
             "id": 5,
             "name": "Summer De Wet",
-            "testimonial": "In the time that I have known her, Haanim has proven herself to be exceptional at whatever she sets out to do,demonstrating a strong aptitude for coding and a deep passion for technology. What makes Haanim different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication.Her attention to detail and ability to work collaboratively makes her an invaluable member of any team - Classmate",
+            "title" : "Classmate",
+            "testimonial": "In the time that I have known her, Haanim has proven herself to be exceptional at whatever she sets out to do,demonstrating a strong aptitude for coding and a deep passion for technology. What makes Haanim different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication.Her attention to detail and ability to work collaboratively makes her an invaluable member of any team.",
             "image": "https://cdn-thumbs.imagevenue.com/75/96/4d/ME17GHLZ_t.jpg"
         },
         {
             "id": 6,
             "name": "Unity Demas",
-            "testimonial": "Haanim, with her exceptional work ethic and unwavering dedication, consistently stands out as a hardworking and committed classmate who sets the bar high by tirelessly striving for academic excellence and aiming for the highest marks in every undertaking. Beyond her impressive academic pursuits, she radiates positivity with her pleasant and amiable soul, making her not only a valuable asset in the pursuit of knowledge but also a delightful presence that contributes significantly to the overall camaraderie and uplifting atmosphere within the academic community. - Classmates",
+            "title" : "Classmate",
+            "testimonial": "Haanim, with her exceptional work ethic and unwavering dedication, consistently stands out as a hardworking and committed classmate who sets the bar high by tirelessly striving for academic excellence and aiming for the highest marks in every undertaking. Beyond her impressive academic pursuits, she radiates positivity with her pleasant and amiable soul, making her not only a valuable asset in the pursuit of knowledge but also a delightful presence that contributes significantly to the overall camaraderie and uplifting atmosphere within the academic community.",
             "image": "https://cdn-thumbs.imagevenue.com/99/79/40/ME17GHMD_t.png"
         }
     ]
