@@ -62,22 +62,18 @@
     ],
     "Resumearray": [
         {
-            "school": "Kannemeyer Primary School",
-            "year": "2010 - 2017",
-            "imageSrc": "https://i.ibb.co/z4jXK2x/port-kps.jpg",
-            "description": "During my primary school years, I acquired fundamental skills in reading and writing, laying the foundation for effective communication. The curriculum not only honed my language abilities but also introduced me to a diverse range of subjects, fostering a broad understanding of various situations. Primary school provided a nurturing environment where I not only gained knowledge but also developed essential life skills crucial for my educational journey."
+            "school": "Life Choices Coding Academy",
+            "year": "2023 -2024",
+            "imageSrc": "https://i.ibb.co/kqH69xm/port-lc.jpg",
+            "description": "As a former student at Life Choices Coding Academy, my initial reservations about this field have evolved into a genuine enjoyment, and I find myself immersed in the learning process. Despite not being an initial consideration, my experience has been enriching, exposing me to a plethora of new concepts that have sparked a growing interest within me. The academy has become a dynamic environment where I not only learn but also cultivate a newfound passion for the world of coding and technology.",
+            "degree" : "Certificate Of Excellence"
           },
           {
             "school": "South Peninsula High School",
             "year": "2018 - 2022",
             "imageSrc": "https://i.ibb.co/GTWCPJL/portsp.jpg",
-            "description": "Throughout my high school journey, I delved into an extended and more profound realm of learning, exploring a wealth of new knowledge. Ultimately, I successfully matriculated from South Peninsula High School, achieving a Bachelor’s Pass, a testament to my dedication to education. Notably, I excelled in Afrikaans, Life Skills, and History, earning distinctions in these subjects."
-          },
-          {
-            "school": "Life Choices Coding Academy",
-            "year": "2023 -2024",
-            "imageSrc": "https://i.ibb.co/kqH69xm/port-lc.jpg",
-            "description": "As a present student at Life Choices Coding Academy, my initial reservations about this field have evolved into a genuine enjoyment, and I find myself immersed in the learning process. Despite not being an initial consideration, my experience has been enriching, exposing me to a plethora of new concepts that have sparked a growing interest within me. The academy has become a dynamic environment where I not only learn but also cultivate a newfound passion for the world of coding and technology."
+            "description": "Throughout my high school journey, I delved into an extended and more profound realm of learning, exploring a wealth of new knowledge. Ultimately, I successfully matriculated from South Peninsula High School, achieving a Bachelor’s Pass, a testament to my dedication to education. Notably, I excelled in Afrikaans, Life Skills, and History, earning distinctions in these subjects.",
+            "degree": "Bachelor's Pass"
           }
     ],
     "TestimonialsArray": [
