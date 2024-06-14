@@ -13,6 +13,35 @@
     "ProjectsArray": [
         {
             "id": 1,
+            "title": "Weather App",
+            "description": "My weather app, developed with Python, seamlessly integrates both front-end and back-end functionalities. Powered by data from openweathermap.org API, it provides real-time weather updates and forecasts for any location worldwide. Users can easily access current weather conditions, temperature trends, wind speed, and more, all presented through a user-friendly interface designed with Python's capabilities in mind.",
+            "image": "https://i.ibb.co/vxg7XM2/Screenshot-2024-06-14-083510.png",
+            "Github": "https://github.com/HaanimP/weather-app.git",
+            "Vercel": "https://weather-app-navy-nu-74.vercel.app/"
+        },
+        {
+            "id": 2,
+            "title": "Wix E-commerce Website",
+            "description": "Welcome to Haanim's Closet, your premier destination for elegant abayas and essentials for Muslim women, thoughtfully crafted with Wix. Discover a curated collection that celebrates modesty and grace, offering a seamless shopping experience that honors your values and enhances your style.",
+            "image": "https://i.ibb.co/LvGMhHm/Screenshot-2024-06-14-112913.png",
+            "Vercel": "https://haanimpietersen.wixsite.com/my-site-3"
+        },
+        {
+            "id": 3,
+            "title": "Wix Portfolio",
+            "description": "Welcome to Haanim's Portfolio, a beautifully crafted Wix site showcasing a journey of creativity and passion. Explore a captivating collection of works that blend artistic vision with meticulous detail, offering a glimpse into the heart of an inspired creator.",
+            "image": "https://i.ibb.co/Jn27skv/wix-portfolio.png",
+            "Vercel": "https://haanimpietersen.wixsite.com/portfolio"
+        },
+        {
+            "id": 4,
+            "title": "WordPress Ecommerce Website",
+            "description": "Welcome to Shank Accessories, an exquisite eCommerce destination crafted with WordPress, where elegance and sophistication define every piece. Our meticulously designed platform offers a seamless shopping experience, bringing you closer to the finest jewelry and accessories that blend timeless beauty with contemporary flair.",
+            "image": "https://i.ibb.co/St9fwk7/Screenshot-2024-06-14-113550.png",
+            "Vercel": "https://shankaccessories.wordpress.com/"
+        },
+        {
+            "id": 5,
             "title": "Capstone Project",
             "description": "A full-stack e-commerce website is a comprehensive online platform that facilitates buying and selling goods and services. It includes features like product browsing, secure checkout, order management, and payment processing, utilizing both front-end and back-end technologies for seamless functionality and user experience.",
             "image": "https://i.ibb.co/64b2cHx/Screenshot-2024-03-27-094741.png",
@@ -20,44 +49,12 @@
             "Vercel": "https://capstoneproject-68b97.web.app/"
         },
         {
-            "id": 2,
-            "title": "Javascript Project",
-            "description": "An e-commerce platform is a web-based space that simplifies the exchange of goods and services, offering users a virtual marketplace to explore, choose, and acquire products or services.A beginner friendly site usinghtml, css , bootstrap and javascript.",
-            "image": "https://i.postimg.cc/nztb1mMX/shank.png",
-            "Github": "https://github.com/HaanimP/SHANK-e-commerce.git",
-            "Vercel": "https://shank-e-commerce.vercel.app/"
-        },
-        {
-            "id": 3,
-            "title": "To do list",
-            "description": "A to-do list is a basic organizational tool that consolidates tasks, activities, or objectives into a structured list, assisting individuals in overseeing and prioritizing their obligations.",
-            "image": "https://i.postimg.cc/P5rf9qZ3/to-do-list.png",
-            "Github": "https://github.com/HaanimP/toDo.git",
-            "Vercel": "https://to-do-six-gamma.vercel.app/"
-        },
-        {
-            "id": 4,
-            "title": "Minutes to seconds",
-            "description": "A minutes-to-seconds converter is a handy tool that rapidly converts time values from minutes to seconds, offering a streamlined and effective method for conducting time unit conversions.",
-            "image": "https://i.postimg.cc/TYKC9VNC/minutes-to-seconds.png",
-            "Github": "https://github.com/HaanimP/minutesToSeconds.git",
-            "Vercel": "https://minutes-to-seconds-five.vercel.app/"
-        },
-        {
-            "id": 5,
-            "title": "Area of triangle",
-            "description": "An area of triangle calculator is a computational aid that allows users to swiftly ascertain the area of a triangle by inputting the necessary geometric measurements, simplifying the calculation process for geometric analysis. Simple and beginner friendly using basic javascript.",
-            "image": "https://i.postimg.cc/8zVM6M2F/area-of-triangle.png",
-            "Github": "https://github.com/HaanimP/areaOfTriangle.git",
-            "Vercel": "https://area-of-triangle-ten.vercel.app/"
-        },
-        {
             "id": 6,
             "title": "Age to days",
             "description": "An age-to-days converter is a useful utility for transforming an individual's age into the corresponding number of days, offering a swift and convenient method to express age in an alternative time unit. A simple and easy age to days convertor using basic javascript.",
-            "image": "https://i.postimg.cc/gkrYm2Nn/age-to-days.png",
-            "Github": "https://github.com/HaanimP/ageToDays.git",
-            "Vercel": "https://age-to-days-three.vercel.app/"
+            "image": "https://i.ibb.co/ZMDkYgK/Screenshot-2024-06-14-113822.png",
+            "Github": "https://github.com/Mzwa1080/coffee_shop_eomp.git",
+            "Vercel": "https://haa-zwaa.web.app/"
         }
     ],
     "Resumearray": [
